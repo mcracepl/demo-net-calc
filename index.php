@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link href="style.css" title="Styl podstawowy" rel="stylesheet" type="text/css"/>
+<title>Policz swoją sieć!</title>
+</head>
+<body>
+
+
 <?php
 include('class.php');
 include('form.html');
