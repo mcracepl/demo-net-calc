@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #581845;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 11px; 
+	 
+}
+
+input[type='text'] {
+	width: 200px;
+	padding: 4px;
+}
+input[type='number'] {
+	width: 200px;
+	padding: 4px;
+}
+
+table {
+	width: 100%;
+	border-radius: 5px 5px 5px 5px;
+	border-spacing: 1px;
+    
+   
+}
+
+td {
+	padding: 10px;
+	border-radius: 5px 5px 5px 5px;
+	
+}
+
+thead td{
+	background-color: #FFC300;
+	padding: 16px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	
+}
+
+tbody td{
+	background-color: #FFF;
+	
+	
+}
+.center{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+
+}
+.form {
+	
+	width: 550px;
+	margin: auto;
+	margin-bottom: 30px;
+	margin-top: 60px;
+
+}
+
+.site {
+	width: 550px;
+	margin: auto;
+}
+
+input[type='submit'] {
+	padding: 7px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 5px 5px 5px 5px;
+	border:0;
+	background-color: #DAF7A6;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+input[type='submit']:hover {
+	background-color: #C70039;
+	color: #fff;
+}
+
+.error {
+	
+	font-weight: bold;
+	font-size: 14px;
+	color: red;
+	text-align: center;
+	
+}
