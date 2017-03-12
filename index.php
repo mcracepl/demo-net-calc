@@ -23,6 +23,8 @@ if(isset($_GET['ip']) && isset($_GET['mask'])) {
 } 
 
 ?>
+
+<!--  tu nast¹pi³a zmiana -->
 </div>
 </body>
 </html>
